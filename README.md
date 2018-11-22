@@ -5,7 +5,7 @@ In this project we will be working with the Titanic Data Set from Kaggle.
 ## What is this project?
 
 In this project we will be working with the Titanic Data Set from Kaggle.
-This project about Data Analysis on titanic data and after anlysis making a classifier for if someone is going to survive or not.
+This project is about Data Analysis on titanic data and after anlysis making a classifier for if someone is going to survive or not.
 
 ## Content
 
