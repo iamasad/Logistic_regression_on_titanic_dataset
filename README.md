@@ -1,13 +1,20 @@
 # Logistic_regression_on_titanic_dataset
 Data Analysis and Classification on Titanic data set using Logistic regression in Python.
+In this project we will be working with the Titanic Data Set from Kaggle. 
 
 ## What is this project?
 
+In this project we will be working with the Titanic Data Set from Kaggle.
 This project about Data Analysis on titanic data and after anlysis making a classifier for if someone is going to survive or not.
 
 ## Content
 
+We'll be trying to predict a classification- survival or deceased. Let's begin our understanding of implementing Logistic Regression in Python for classification.
+
+We'll use a "semi-cleaned" version of the titanic data set, if you use the data set hosted directly on Kaggle, you may need to do some additional cleaning but in this project we have to do the cleaning part.
+
 In the first step I am doing a very quick data exploration and preprocessing on a visual level, plotting some simple plots to understand the data better. Then I've done some data cleaning and built a Classifier that can predict whether a passenger survived or not.
+
 
 ## Tools and Packages
 
