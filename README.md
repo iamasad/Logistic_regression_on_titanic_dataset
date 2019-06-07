@@ -54,4 +54,4 @@ The machine learning package of Python. Makes implementing ML Algorithms extreme
 The Model built here has a prediction score of 0.79, i.e., we get an average accuracy of 80+%. This is a very good accuracy for starters This can be imporoved by doing some more feature engineering . 
 
 ## contributor
-### @Md Asadullah
+### @asad
