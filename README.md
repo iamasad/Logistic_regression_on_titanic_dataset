@@ -1,6 +1,6 @@
 # Logistic_regression_on_titanic_dataset
 Data Analysis and Classification on Titanic data set using Logistic regression in Python.
-In this project we will be working with the Titanic Data Set from Kaggle. 
+In this project we will be working with Titanic Data Set from Kaggle. 
 
 ## What is this project?
 
